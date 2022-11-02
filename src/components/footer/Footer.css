@@ -1,0 +1,13 @@
+#address p {
+  font-size: 14px;
+}
+
+#fiture a {
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.social-media img {
+  margin-right: 8px;
+}

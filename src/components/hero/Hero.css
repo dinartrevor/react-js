@@ -1,0 +1,10 @@
+.hero-desc h1 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 150%;
+}
+
+.hero-desc p {
+  font-size: 14px;
+  line-height: 20px;
+}

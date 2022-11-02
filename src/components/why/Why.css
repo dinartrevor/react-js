@@ -1,0 +1,6 @@
+#why .row div {
+  transition: 0.2s;
+}
+#why .row div:hover {
+  transform: scale(1.01);
+}

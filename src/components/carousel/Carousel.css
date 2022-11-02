@@ -1,0 +1,31 @@
+.item {
+  background: #f1f3ff;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+  border: 0 10px;
+  padding-top: 60px;
+}
+
+.user {
+  font-weight: 700;
+}
+
+/* Responsive for owl carousel */
+@media (max-width: 992px) {
+  .owl-theme {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .rating div {
+    justify-content: center;
+  }
+  .user {
+    text-align: center;
+  }
+  .avatar {
+    margin-bottom: 16px;
+  }
+  .rating .star {
+    margin-bottom: 16px;
+  }
+}
